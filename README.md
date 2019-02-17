@@ -12,5 +12,6 @@
 Apache License 2.0.
 Copyright (c) 2019 ronhunlam
 
-ronhunlam's blog is derived from [Hux Blog](https://github.com/Huxpro/huxpro.github.io) Thanks him for offering such a awesome blog boilerplate :)
+ronhunlam's blog is derived from [Hux Blog](https://github.com/Huxpro/huxpro.github.io) Thanks him for offering such an awesome blog boilerplate :)
+
 Copyright (c)  2015-2016 Huxpro.
